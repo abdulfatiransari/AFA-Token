@@ -1,0 +1,5 @@
+AFA Token
+Contract Address:	0x25a71D12e0E4E7e5c7Cf596DFb54c80AC72c0E44
+Wallet Address:		0x4DA21707a86F29033F26c0adBd70E9D105299467
+Function:
+Every transfer 10 percent token burn in sender wallet
